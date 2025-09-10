@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="assets/logo.png" alt="Image" width="200">
+    <img src="assets/clip_logo.png" alt="Image" width="200">
 </p>
 <div align="center">
 <h1 align="center">PriorCLIP: Visual Prior Guided Vision-Language Model for Remote Sensing Image-Text Retrieval</h1>
