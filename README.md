@@ -24,8 +24,8 @@
 </p>
 
 ## News
-- [2025/5/17] We have open sourced the code of PriorCLIP.
-- [2024/5/16] Our paper of "PriorCLIP: Visual Prior Guided Vision-Language Model for Remote Sensing Image-Text Retrieval" is up on [arXiv](https://arxiv.org/abs/2405.10160).
+- [2024/5/17] We have open-sourced the code of PriorCLIP.
+- [2024/5/16] Our paper, "PriorCLIP: Visual Prior Guided Vision-Language Model for Remote Sensing Image-Text Retrieval," is up on [arXiv](https://arxiv.org/abs/2405.10160).
 
 
 ## Abstract
