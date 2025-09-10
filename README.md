@@ -79,6 +79,21 @@ python retrieval.py \
 
 All experiments are based on [RSITMD](https://github.com/xiaoyuan1996/AMFMN/tree/master/RSITMD), [RSICD](https://github.com/201528014227051/RSICD_optimal) datasets and pre-training dataset [RS5M](https://github.com/om-ai-lab/RS5M).
 
+## Statement
+### Acknowledgement
+
+This project references and utilizes the following open-source models and datasets.
+
+#### Related Open Source Models
+
+- [OpenCLIP](https://github.com/mlfoundations/open_clip)
+
+#### Related Open Source Datasets
+
+- [RSICD Dataset](https://github.com/201528014227051/RSICD_optimal)
+- [RSITMD Dataset](https://github.com/xiaoyuan1996/AMFMN)
+- [RS5M Dataset](https://github.com/om-ai-lab/RS5M)
+
 ### Citation
 
 If you are interested in the following work, please cite the following paper.
@@ -93,7 +108,7 @@ If you are interested in the following work, please cite the following paper.
 }
 
 @misc{pan2024pir,
-      title={PIR: Remote Sensing Image-Text Retrieval with Prior Instruction Representation Learning}, 
+      title={PriorCLIP: Visual Prior Guided Vision-Language Model for Remote Sensing Image-Text Retrieval}, 
       author={Jiancheng Pan and Muyuan Ma and Qing Ma and Cong Bai and Shengyong Chen},
       year={2024},
       eprint={2405.10160},
