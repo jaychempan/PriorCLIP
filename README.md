@@ -87,7 +87,8 @@ This project references and utilizes the following open-source models and datase
 #### Related Open Source Models
 
 - [OpenCLIP](https://github.com/mlfoundations/open_clip)
-
+- [RemoteCLIP](https://github.com/ChenDelong1999/RemoteCLIP)(part)
+  
 #### Related Open Source Datasets
 
 - [RSICD Dataset](https://github.com/201528014227051/RSICD_optimal)
