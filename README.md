@@ -67,7 +67,7 @@ torchrun --nproc_per_node 2 \
     ...
 ```
 ### Retrieval
-Retrieval evaluation on [CLIP Benchmark](https://github.com/ChenDelong1999/RemoteCLIP) and checkpoints can download from here: [Baidu Disk](https://pan.baidu.com/s/15KMR8bizO_6eXZHejEiTbQ?pwd=wpef).
+Retrieval evaluation on [CLIP Benchmark](https://github.com/ChenDelong1999/RemoteCLIP) and checkpoints can download from here: [Baidu Disk](https://pan.baidu.com/s/1urfZ_64DFRelAQz-LYkcCQ?pwd=2v3v).
 ```
 python retrieval.py \
     --model-name "PIR" \
