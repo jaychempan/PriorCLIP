@@ -11,6 +11,7 @@
 </div>
 
 <p align="center">
+    <img src="https://img.shields.io/badge/IEEE_TGRS-Accepted-success" alt="Accepted by IEEE TGRS">
     <a href="https://arxiv.org/abs/2405.10160"><img src="https://img.shields.io/badge/Arxiv-2405.10160-b31b1b.svg?logo=arXiv"></a>
     <a href="https://github.com/jaychempan/PriorCLIP/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-yellow"></a>
 </p>
@@ -24,6 +25,7 @@
 </p>
 
 ## News
+- **PriorCLIP has been accepted by IEEE Transactions on Geoscience and Remote Sensing (TGRS)!**
 - [2024/5/17] We have open-sourced the code of PriorCLIP.
 - [2024/5/16] Our paper, "PriorCLIP: Visual Prior Guided Vision-Language Model for Remote Sensing Image-Text Retrieval," is up on [arXiv](https://arxiv.org/abs/2405.10160).
 
@@ -97,9 +99,21 @@ This project references and utilizes the following open-source models and datase
 
 ### Citation
 
-If you are interested in the following work, please cite the following paper.
+If you find PriorCLIP useful in your research, please cite our paper:
 
+```bibtex
+@article{pan2026priorclip,
+  title={PriorCLIP: Visual prior guided vision-language model for remote sensing image-text retrieval},
+  author={Pan, Jiancheng and Ma, Muyuan and Ma, Qing and Bai, Cong and Chen, Shengyong},
+  journal={IEEE Transactions on Geoscience and Remote Sensing},
+  year={2026},
+  publisher={IEEE}
+}
 ```
+
+You may also cite our earlier conference paper:
+
+```bibtex
 @inproceedings{pan2023prior,
   title={A Prior Instruction Representation Framework for Remote Sensing Image-text Retrieval},
   author={Pan, Jiancheng and Ma, Qing and Bai, Cong},
@@ -107,14 +121,4 @@ If you are interested in the following work, please cite the following paper.
   pages={611--620},
   year={2023}
 }
-
-@misc{pan2024pir,
-      title={PriorCLIP: Visual Prior Guided Vision-Language Model for Remote Sensing Image-Text Retrieval}, 
-      author={Jiancheng Pan and Muyuan Ma and Qing Ma and Cong Bai and Shengyong Chen},
-      year={2024},
-      eprint={2405.10160},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
-}
-  
 ```

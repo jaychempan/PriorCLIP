@@ -516,7 +516,7 @@ class VisionTransformer(nn.Module):
         belief_matrix = F.softmax(torch.matmul(x, y.transpose(-2, -1)).squeeze(), dim=-1)
         sorted_fscore, sorted_ind = torch.sort(belief_matrix, dim=1, descending=True)
         index_weights = 1.0 / torch.sqrt(sorted_ind+1)
-        x = F.normalize(x * belief_matrix.unsqueeze(dim=-1) + x * index_weights.unsqueeze(dim=-1))
+        x = F.normalize(x * belief_matrix.unsqueeze(dim=-1) + x * belief_matrix.unsqueeze(dim=-1))
         x = torch.cat([y,x], dim=1)
         x = x.permute(1, 0, 2)  # NLD -> LND
 
