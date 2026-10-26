@@ -25,7 +25,7 @@
 </p>
 
 ## News
-- **PriorCLIP has been accepted by IEEE Transactions on Geoscience and Remote Sensing (TGRS)!**
+- [2026/9/8] **PriorCLIP has been accepted by IEEE Transactions on Geoscience and Remote Sensing (TGRS)!**
 - [2024/5/17] We have open-sourced the code of PriorCLIP.
 - [2024/5/16] Our paper, "PriorCLIP: Visual Prior Guided Vision-Language Model for Remote Sensing Image-Text Retrieval," is up on [arXiv](https://arxiv.org/abs/2405.10160).
 
